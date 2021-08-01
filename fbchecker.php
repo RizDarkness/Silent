@@ -1,6 +1,6 @@
 <?php
 /**
-* @Darkness [Recoded By KratonCyber]
+* @author Rifqi Haidar [Recoded By F0xBase]
 * @package FACEBOOK CHECKER
 */
 $kuning = "\e[1;33m";
